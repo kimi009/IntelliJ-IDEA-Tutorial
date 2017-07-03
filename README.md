@@ -120,6 +120,7 @@
 |duanluan|<https://github.com/duanluan>|
 |binarywang|<https://github.com/binarywang>|
 |chenhui7373|<https://github.com/chenhui7373>|
+/kimi009/<https://github.com/kimi009>/
 
 ## AD
 
